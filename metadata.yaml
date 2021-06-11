@@ -1,11 +1,16 @@
 _repo: Hare-and-Tortoise_65556
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 65556-h/images/cover.jpg
 creator:
   author:
     agent_name: Coalfleet, Pierre
     gutenberg_agent_id: '53401'
     url: http://www.gutenberg.org/2009/agents/53401
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/65556#Hare-and-Tortoise
 gutenberg_issued: '2021-06-07'
 gutenberg_type: Text
 identifiers:
